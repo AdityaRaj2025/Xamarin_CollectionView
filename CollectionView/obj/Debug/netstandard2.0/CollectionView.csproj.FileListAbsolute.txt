@@ -1,0 +1,17 @@
+E:\StarlandProjects\CollectionView\CollectionView\bin\Debug\netstandard2.0\CollectionView.deps.json
+E:\StarlandProjects\CollectionView\CollectionView\bin\Debug\netstandard2.0\CollectionView.dll
+E:\StarlandProjects\CollectionView\CollectionView\bin\Debug\netstandard2.0\ref\CollectionView.dll
+E:\StarlandProjects\CollectionView\CollectionView\bin\Debug\netstandard2.0\CollectionView.pdb
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\CollectionView.csproj.AssemblyReference.cache
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\CollectionView.GeneratedMSBuildEditorConfig.editorconfig
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\CollectionViewPage.xaml.g.cs
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\CollectionView.AssemblyInfoInputs.cache
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\CollectionView.AssemblyInfo.cs
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\CollectionView.csproj.CoreCompileInputs.cache
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\XamlC.stamp
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\CollectionView.dll
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\ref\CollectionView.dll
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\CollectionView.pdb
+E:\StarlandProjects\CollectionView\CollectionView\obj\Debug\netstandard2.0\CollectionViewPage2.xaml.g.cs

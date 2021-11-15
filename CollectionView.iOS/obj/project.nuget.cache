@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iv7nKUYQvfceYSMe/VHGCFgOawQGFcw2agtVcSceweeJQjyx3z0886OcbFxeC7Yf2tBZCzTu+3hXC14itWkk4g==",
+  "success": true,
+  "projectFilePath": "E:\\StarlandProjects\\CollectionView\\CollectionView.iOS\\CollectionView.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ar199\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ar199\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ar199\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

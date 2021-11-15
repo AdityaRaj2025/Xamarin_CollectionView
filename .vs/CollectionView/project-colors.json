@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc69f351-10af-4f69-ad56-d7b7c37df444": {
+      "ProjectGuid": "dc69f351-10af-4f69-ad56-d7b7c37df444",
+      "DisplayName": "CollectionView",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
